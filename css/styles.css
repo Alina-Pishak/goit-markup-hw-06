@@ -836,6 +836,11 @@ body {
     border: none;
 }
 
+.modal-form-submit-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
 .modal-form-submit {
     width: 169px;
     height: 56px;
